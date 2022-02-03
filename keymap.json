@@ -1,0 +1,9 @@
+{
+    "keyboard": "littled",
+    "keymap": "default",
+    "layers": [
+        ["RSG(KC_S)", "LCTL(KC_F)", "RALT(KC_TAB)", "KC_WH_U", "C(KC_C)", "C(KC_V)", "TD(TD_HIDE_SHOW)", "KC_WH_D"],
+        ["RSG(KC_S)", "LCTL(KC_F)", "RALT(KC_TAB)", "KC_WH_U", "C(KC_C)", "C(KC_V)", "TD(TD_HIDE_SHOW)", "KC_WH_D"]
+    ],
+    "layout": "LAYOUT","author":"","notes":""
+}
